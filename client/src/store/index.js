@@ -6,7 +6,7 @@ color: '#EFBD48',
 isLogoTexture: true,
 isFullTesture: false,
 logoDecal: './threejs.png',
-fullDecal: './threejs.pnpg',
+fullDecal: './threejs.png',
 });
 
 export default state;
