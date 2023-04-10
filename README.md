@@ -18,4 +18,7 @@
 - TailwindCSS - a popular utility-first CSS styling framework
 - Framer Motion -  the most popular library used to bring your React website to life with animations
 
+![image](https://user-images.githubusercontent.com/77594597/230814916-0c049df7-c689-44d7-b110-a63efc4ff84d.png)
+
+
 
